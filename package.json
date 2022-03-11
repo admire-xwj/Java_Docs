@@ -1,0 +1,27 @@
+{
+  "name": "java_docs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/admire-xwj/Java_Docs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/admire-xwj/Java_Docs/issues"
+  },
+  "homepage": "https://github.com/admire-xwj/Java_Docs#readme",
+  "devDependencies": {
+    "vuepress": "^0.14.11"
+  },
+  "dependencies": {
+    "import-lazy": "^4.0.0"
+  }
+}
